@@ -8,4 +8,4 @@ There will be no LTS Versions for the forseeable future.
 The Naming Scheme for these versions will follow the current Solar System, If names run out, Moons will also be included.
 For Example, The current Pre-Alpha version is "InfinityOS v0.0.1 Sun", it will stay as version "Sun" until the first stable release, it will then move to "InfinityOS v1.0 Mercury".
 
-# Link to InfinityOS Webiste: <https://infinityos.tk>
+# Link to InfinityOS Webiste: <http://infinityos.tk>
